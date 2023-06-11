@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baf-03&label=2*Profile%20views&color=0e75b6&style=flat" alt="baf-03" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=baf-03&label=Profile%20views&color=0e75b6&style=flat" alt="baf-03" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=baf-03&label=Profile%20views&color=0e75b6&style=flat" alt="baf-03" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baf-03" alt="baf-03" /></a> </p>
 
