@@ -22,6 +22,7 @@
 <p style="background-color: rgba(255, 0, 0, 0.5);">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baf-03&show_icons=true&locale=en&layout=compact" alt="baf-03" />
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baf-03&" alt="baf-03" /></p>
 
 
 
