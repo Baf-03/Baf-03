@@ -8,7 +8,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baf-03" alt="baf-03" /></a> </p>
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nextjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
