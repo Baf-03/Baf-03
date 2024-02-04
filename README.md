@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN stack developer</h3>
 
-<p align="left">
+<p align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=baf-03&label=Profile%20views&color=0e75b6&style=flat" alt="baf-03" /> </p>
+</p>
+ <p align="center">
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" width="200">
 </p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baf-03" alt="baf-03" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baf-03" alt="baf-03" /></a> </p>
 - 🌱 I’m currently learning **Nextjs**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,9 +35,9 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> </a>
 <br/><br/>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baf-03&show_icons=true&locale=en&layout=compact&color=0e75b6" alt="baf-03" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baf-03&show_icons=true&locale=en&layout=compact&color=0e75b6" alt="baf-03" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baf-03&" alt="baf-03" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=baf-03&" alt="baf-03" /></p>
 
 
 
