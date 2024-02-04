@@ -23,7 +23,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="reactjs" width="70" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" alt="nextjs" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/node-js8565.logowik.com.webp" alt="nextjs" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:725/1*gAX_DfU2OY-xjGllg7nFOA.png" alt="expressjs" width="40" height="40"/> </a>
 
 
 <p>
