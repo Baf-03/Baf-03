@@ -22,10 +22,15 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" alt="reactjs" width="70" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="TailwindCSs" width="30" height="20"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3913/PNG/512/mui_logo_icon_248416.png" alt="TailwindCSs" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" alt="nextjs" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:725/1*gAX_DfU2OY-xjGllg7nFOA.png" alt="expressjs" width="40" height="40"/> </a>
-
-
+<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" width="70" height="20"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" alt="nextjs" width="50" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> </a>
+<br/><br/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baf-03&show_icons=true&locale=en&layout=compact&color=0e75b6" alt="baf-03" />
 </p>
