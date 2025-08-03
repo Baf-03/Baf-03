@@ -16,13 +16,13 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="450px" alt="pixel city image">
 
-<h2 align="center"> Learned from SMIT<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+<h2 align="center"> Crafting backend solutions and streamlining DevOps<img src="./assets/animated-flame-01.gif" width="14px"/><br>with a love for coding!<img src="./assets/animated-flame-01.gif" width="14px"/> </h2><br>
 
 -   👨‍💻 I'm Bilal Ahmed👋, an Undergraduate University student, currently pursuing a Computer Science Degree from University of Karachi. <br><br><br>
 
 -   🌳 I’m currently working as Backend Developer <br><br><br>
 
--   🌊 2024 Goals: Deepen Knowledge of System Design. <br><br><br>
+-   🌊 2025 Goals: Deepen Knowledge of System Design. <br><br><br>
 
 -   ☕ Interest: Coding, Esports<br><br><br>
 
