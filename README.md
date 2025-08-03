@@ -20,9 +20,9 @@
 
 -   👨‍💻 I'm Bilal Ahmed👋, an Undergraduate University student, currently pursuing a Computer Science Degree from University of Karachi. <br><br><br>
 
--   🌳 I’m currently working as a MERN Stack Developer <br><br><br>
+-   🌳 I’m currently working as Backend Developer <br><br><br>
 
--   🌊 2024 Goals: Learn Nest.js and TypeScript. <br><br><br>
+-   🌊 2024 Goals: Deepen Knowledge of System Design. <br><br><br>
 
 -   ☕ Interest: Coding, Esports<br><br><br>
 
@@ -51,14 +51,14 @@
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,vite,html,css,sass,tailwind,js,react,redux,java,firebase,mongodb,postman,netlify,vercel,figma,materialui" alt="skills logos" />
+  <img src="https://res.cloudinary.com/davtrroe8/image/upload/v1754217192/image-removebg-preview_uv6vcx.png" alt="skills logos" />
   <br> 
   <h2></h2>
 
   <br>
   <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,postgres,mysql,threejs,ts,androidstudio" alt="skills planning to learn logos">
+<!--   <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXqxXczyv25B32slUWJYGufzwk4jbWbHrJpg&s" alt="skills planning to learn logos"> -->
 </div>
 
 <h2></h2>
