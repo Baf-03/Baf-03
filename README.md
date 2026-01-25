@@ -21,7 +21,7 @@
 
 - 💻 Currently working as a **Full Stack Developer** — I make websites, mobile apps, backend APIs, and handle server deployments.<br><br>
 
-- 🎯 **2025 Goals:** Diving deeper into System Design and cloud architecture. Always leveling up.<br><br>
+- 🎯 **Goals:** Diving deeper into System Design and cloud architecture. Always leveling up.<br><br>
 
 - 🎮 When I'm not coding, you'll find me in competitive gaming or exploring new tech rabbit holes.<br><br>
 
